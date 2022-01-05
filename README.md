@@ -2,7 +2,7 @@
 
 ## Tentang
 
-Talk Me adalah sebuah aplikasi perpesanan berbasis website. Aplikasi ini dibuat untuk keperluan UAS matakuliah Sistem Informasi Geografis Terdistribusi. Aplikasi ini dibuat menggunakan: 
+SIM Surat Desa adalah sebuah website untuk membuat surat di Desa/Kelurahan. Sistem ini dibuat untuk keperluan UAS matakuliah Proyek Pengembangan Sistem Informasi. Aplikasi ini dibuat menggunakan: 
 1. [Laravel 8](https://laravel.com/)
 2. [JQuery](https://jquery.com/)
 3. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
