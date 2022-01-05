@@ -37,9 +37,12 @@ SIM Surat Desa adalah sebuah website untuk membuat surat di Desa/Kelurahan. Sist
 
 
 ## Screnshoot Tampilan Aplikasi
-### Tampilan Admin
+
+### Autentikasi
 ![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/1.png?raw=true)
 ![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/2.png?raw=true)
+
+### Tampilan Admin
 ![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/3.png?raw=true)
 ![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/4.png?raw=true)
 ![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/5.png?raw=true)
