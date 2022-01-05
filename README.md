@@ -38,5 +38,12 @@ Talk Me adalah sebuah aplikasi perpesanan berbasis website. Aplikasi ini dibuat 
 
 ## Screnshoot Tampilan Aplikasi
 ### Tampilan Admin
-![Konfigurasi database](https://github.com/myndra1805/talkme/blob/master/public/images/ss/1.png?raw=true)
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/1.png?raw=true)
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/2.png?raw=true)
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/3.png?raw=true)
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/4.png?raw=true)
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/5.png?raw=true)
+
 ### Tampilan Masyarakat
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/6.png?raw=true)
+![Konfigurasi database](https://github.com/myndra1805/sim_surat_desa/blob/master/public/images/ss/7.png?raw=true)
